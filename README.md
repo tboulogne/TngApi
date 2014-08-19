@@ -106,4 +106,4 @@ We've provided a number of useful shortcodes for you to play with.  You can find
   - The line to change is `where eventtypeID = "10"` (line 267)
 
 ## Patches & contributions
-This is very much a project that can evolve so please feel free to fork and submit pull requests.
+This is very much a project that can evolve so please feel free to fork and submit pull requests..
